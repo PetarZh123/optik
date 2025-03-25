@@ -20,7 +20,7 @@ namespace AppointmentScheduler.Services
 
             if(model!=null && model.Id > 0)
             {
-                //updatet
+                //update
                 return 1;
             }
             else

@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc.Rendering;
-using System.Collections.Generic;
 
 namespace AppointmentScheduler.Utility
 {
@@ -12,11 +11,11 @@ namespace AppointmentScheduler.Utility
         public static string appointmentUpdated = "Appointment updated successfully.";
         public static string appointmentDeleted = "Appointment deleted successfully.";
         public static string appointmentExists = "Appointment for selected date and time already exists.";
-        public static string appointmentNotExists = "Appointment not exists.";
+        public static string appointmentNotExists = "Appointment does not exist.";
 
-        public static string appointmentAddError = "Something went wront, Please try again.";
-        public static string appointmentUpdatError = "Something went wront, Please try again.";
-        public static string somethingWentWrong = "Something went wront, Please try again.";
+        public static string appointmentAddError = "Something went wrong, Please try again.";
+        public static string appointmentUpdatError = "Something went wrong, Please try again.";
+        public static string somethingWentWrong = "Something went wrong, Please try again.";
         public static int success_code = 1;
         public static int failure_code = 0;
 
