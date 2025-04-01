@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppointmentScheduler", "AppointmentScheduler\AppointmentScheduler.csproj", "{94975D8C-A4A7-4D70-8B80-174DF1555328}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpticStore", "AppointmentScheduler\OpticStore.csproj", "{94975D8C-A4A7-4D70-8B80-174DF1555328}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

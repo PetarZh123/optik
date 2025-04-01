@@ -3,6 +3,7 @@ using AppointmentScheduler.Models.ViewModels;
 using AppointmentScheduler.Utility;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Optik.Models;
 
 namespace AppointmentScheduler.Controllers
 {

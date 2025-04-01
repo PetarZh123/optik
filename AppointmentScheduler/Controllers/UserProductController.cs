@@ -1,5 +1,5 @@
-﻿using AppointmentScheduler.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using Optik.Models;
 
 namespace AppointmentScheduler.Controllers;
 

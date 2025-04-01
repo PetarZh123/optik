@@ -3,6 +3,7 @@ using AppointmentScheduler.Models;
 using AppointmentScheduler.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Optik.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -44,7 +45,8 @@ using (var scope = app.Services.CreateScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
     // use context
-    await dbContext.Database.MigrateAsync();
+    // await dbContext.Database.EnsureDeletedAsync();
+    await dbContext.Database.EnsureCreatedAsync();
 }
 
 app.Run();
