@@ -1,0 +1,28 @@
+﻿@model Product
+
+<h2>Add New Product</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label>Title</label>
+        <input asp-for="Title" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label>Description</label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+    </div>
+    
+<!--TODO: make the admin upload picture and store it in db--> 
+    <div class="form-group">
+        <label>Image URL</label>
+        <input asp-for="ImageUrl" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Price</label>
+        <input asp-for="Price" class="form-control" type="number" step="0.1" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Product</button>
+</form>

@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AppointmentScheduler.bundle.scp.css",
-      "PackagePath": "staticwebassets\\AppointmentScheduler.3m3srfdtq8.bundle.scp.css"
+      "Id": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Optik.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Optik.eclrpjzf30.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\css\\site.css",
@@ -749,24 +749,24 @@
       "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.min.js"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AppointmentScheduler.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Optik.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AppointmentScheduler.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Optik.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AppointmentScheduler.props",
-      "PackagePath": "build\\AppointmentScheduler.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Optik.props",
+      "PackagePath": "build\\Optik.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AppointmentScheduler.props",
-      "PackagePath": "buildMultiTargeting\\AppointmentScheduler.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Optik.props",
+      "PackagePath": "buildMultiTargeting\\Optik.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AppointmentScheduler.props",
-      "PackagePath": "buildTransitive\\AppointmentScheduler.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Optik.props",
+      "PackagePath": "buildTransitive\\Optik.props"
     }
   ],
   "ElementsToRemove": []

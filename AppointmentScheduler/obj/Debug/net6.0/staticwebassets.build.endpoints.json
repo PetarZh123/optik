@@ -3,8 +3,8 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "AppointmentScheduler.3m3srfdtq8.styles.css",
-      "AssetFile": "AppointmentScheduler.styles.css",
+      "Route": "Optik.eclrpjzf30.styles.css",
+      "AssetFile": "Optik.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17,7 +17,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1137"
+          "Value": "1122"
         },
         {
           "Name": "Content-Type",
@@ -25,31 +25,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tVf9WQtfBb3q1KW0UrjzeL5upznSpLQ36/gYTTnVteo=\""
+          "Value": "\"MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 23:35:26 GMT"
+          "Value": "Tue, 01 Apr 2025 01:48:44 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3m3srfdtq8"
+          "Value": "eclrpjzf30"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-tVf9WQtfBb3q1KW0UrjzeL5upznSpLQ36/gYTTnVteo="
+          "Value": "sha256-MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o="
         },
         {
           "Name": "label",
-          "Value": "AppointmentScheduler.styles.css"
+          "Value": "Optik.styles.css"
         }
       ]
     },
     {
-      "Route": "AppointmentScheduler.styles.css",
-      "AssetFile": "AppointmentScheduler.styles.css",
+      "Route": "Optik.styles.css",
+      "AssetFile": "Optik.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -62,7 +62,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1137"
+          "Value": "1122"
         },
         {
           "Name": "Content-Type",
@@ -70,17 +70,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tVf9WQtfBb3q1KW0UrjzeL5upznSpLQ36/gYTTnVteo=\""
+          "Value": "\"MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 23:35:26 GMT"
+          "Value": "Tue, 01 Apr 2025 01:48:44 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tVf9WQtfBb3q1KW0UrjzeL5upznSpLQ36/gYTTnVteo="
+          "Value": "sha256-MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o="
         }
       ]
     },

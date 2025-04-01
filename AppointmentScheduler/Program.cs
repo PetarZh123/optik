@@ -1,3 +1,4 @@
+using System.Collections.Immutable;
 using AppointmentScheduler.Models;
 using AppointmentScheduler.Services;
 using Microsoft.AspNetCore.Identity;
@@ -12,6 +13,11 @@ builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlSer
 builder.Services.AddTransient<IAppointmentService, AppointmentService>();
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddHttpContextAccessor();
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("RequireAdminRole", policy => policy.RequireRole("Admin"));
+});
+
 
 var app = builder.Build();
 

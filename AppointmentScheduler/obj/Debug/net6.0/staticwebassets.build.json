@@ -1,28 +1,28 @@
 {
   "Version": 1,
-  "Hash": "fmTwVOwPBX8mtbi4GSpYVXP34nRFTurn6AjZ7DJY2Do=",
-  "Source": "AppointmentScheduler",
-  "BasePath": "_content/AppointmentScheduler",
+  "Hash": "A2Btpso9feSfFsD+mpVbagBbsA6Xq7a7pjpDZnjVHYY=",
+  "Source": "Optik",
+  "BasePath": "_content/Optik",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "AppointmentScheduler\\wwwroot",
-      "Source": "AppointmentScheduler",
+      "Name": "Optik\\wwwroot",
+      "Source": "Optik",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AppointmentScheduler.styles.css",
-      "SourceId": "AppointmentScheduler",
+      "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Optik.styles.css",
+      "SourceId": "Optik",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/AppointmentScheduler",
-      "RelativePath": "AppointmentScheduler#[.{fingerprint}]?.styles.css",
+      "BasePath": "_content/Optik",
+      "RelativePath": "Optik#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -31,19 +31,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "3m3srfdtq8",
-      "Integrity": "tVf9WQtfBb3q1KW0UrjzeL5upznSpLQ36/gYTTnVteo=",
+      "Fingerprint": "eclrpjzf30",
+      "Integrity": "MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AppointmentScheduler.styles.css"
+      "OriginalItemSpec": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Optik.styles.css"
     },
     {
-      "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AppointmentScheduler.bundle.scp.css",
-      "SourceId": "AppointmentScheduler",
+      "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Optik.bundle.scp.css",
+      "SourceId": "Optik",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/AppointmentScheduler",
-      "RelativePath": "AppointmentScheduler#[.{fingerprint}]!.bundle.scp.css",
+      "BasePath": "_content/Optik",
+      "RelativePath": "Optik#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -52,18 +52,18 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "3m3srfdtq8",
-      "Integrity": "tVf9WQtfBb3q1KW0UrjzeL5upznSpLQ36/gYTTnVteo=",
+      "Fingerprint": "eclrpjzf30",
+      "Integrity": "MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AppointmentScheduler.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Optik.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\css\\site.css",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -81,10 +81,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\favicon.ico",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -102,10 +102,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\js\\notify.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "js/notify.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -123,10 +123,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\js\\script-custom-calendar.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "js/script-custom-calendar#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -144,10 +144,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\js\\site.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -165,10 +165,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -186,10 +186,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -207,10 +207,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -228,10 +228,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -249,10 +249,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -270,10 +270,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -291,10 +291,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -312,10 +312,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -333,10 +333,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -354,10 +354,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -375,10 +375,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -396,10 +396,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -417,10 +417,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -438,10 +438,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -459,10 +459,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -480,10 +480,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -501,10 +501,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -522,10 +522,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -543,10 +543,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -564,10 +564,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -585,10 +585,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -606,10 +606,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -627,10 +627,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -648,10 +648,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -669,10 +669,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -690,10 +690,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -711,10 +711,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -732,10 +732,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -753,10 +753,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -774,10 +774,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -795,10 +795,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -816,10 +816,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -837,10 +837,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -858,10 +858,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -879,10 +879,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -900,10 +900,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -921,10 +921,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -942,10 +942,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -963,10 +963,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -984,10 +984,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1005,10 +1005,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1026,10 +1026,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1047,10 +1047,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1068,10 +1068,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1089,10 +1089,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1110,10 +1110,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1131,10 +1131,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1152,10 +1152,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1173,10 +1173,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1194,10 +1194,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1215,10 +1215,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1236,10 +1236,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1257,10 +1257,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1278,10 +1278,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1299,10 +1299,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1320,10 +1320,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1341,10 +1341,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1362,10 +1362,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\css\\select2.css",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/css/select2#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1383,10 +1383,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\css\\select2.min.css",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/css/select2.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1404,10 +1404,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\af.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/af#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1425,10 +1425,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\af.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/af.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1446,10 +1446,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ar.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ar#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1467,10 +1467,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ar.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ar.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1488,10 +1488,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\az.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/az#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1509,10 +1509,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\az.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/az.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1530,10 +1530,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\bg.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/bg#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1551,10 +1551,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\bg.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/bg.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1572,10 +1572,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\bn.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/bn#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1593,10 +1593,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\bn.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/bn.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1614,10 +1614,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\bs.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/bs#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1635,10 +1635,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\bs.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/bs.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1656,10 +1656,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ca.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ca#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1677,10 +1677,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ca.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ca.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1698,10 +1698,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\cs.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/cs#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1719,10 +1719,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\cs.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/cs.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1740,10 +1740,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\da.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/da#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1761,10 +1761,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\da.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/da.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1782,10 +1782,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\de.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/de#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1803,10 +1803,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\de.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/de.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1824,10 +1824,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\dsb.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/dsb#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1845,10 +1845,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\dsb.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/dsb.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1866,10 +1866,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\el.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/el#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1887,10 +1887,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\el.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/el.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1908,10 +1908,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\en.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/en#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1929,10 +1929,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\en.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/en.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1950,10 +1950,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\es.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/es#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1971,10 +1971,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\es.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/es.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1992,10 +1992,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\et.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/et#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2013,10 +2013,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\et.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/et.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2034,10 +2034,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\eu.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/eu#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2055,10 +2055,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\eu.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/eu.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2076,10 +2076,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\fa.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/fa#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2097,10 +2097,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\fa.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/fa.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2118,10 +2118,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\fi.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/fi#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2139,10 +2139,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\fi.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/fi.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2160,10 +2160,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\fr.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/fr#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2181,10 +2181,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\fr.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/fr.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2202,10 +2202,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\gl.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/gl#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2223,10 +2223,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\gl.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/gl.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2244,10 +2244,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\he.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/he#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2265,10 +2265,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\he.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/he.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2286,10 +2286,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\hi.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/hi#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2307,10 +2307,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\hi.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/hi.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2328,10 +2328,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\hr.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/hr#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2349,10 +2349,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\hr.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/hr.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2370,10 +2370,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\hsb.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/hsb#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2391,10 +2391,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\hsb.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/hsb.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2412,10 +2412,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\hu.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/hu#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2433,10 +2433,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\hu.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/hu.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2454,10 +2454,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\hy.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/hy#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2475,10 +2475,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\hy.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/hy.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2496,10 +2496,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\id.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/id#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2517,10 +2517,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\id.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/id.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2538,10 +2538,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\is.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/is#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2559,10 +2559,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\is.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/is.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2580,10 +2580,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\it.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/it#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2601,10 +2601,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\it.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/it.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2622,10 +2622,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ja.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ja#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2643,10 +2643,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ja.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ja.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2664,10 +2664,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ka.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ka#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2685,10 +2685,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ka.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ka.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2706,10 +2706,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\km.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/km#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2727,10 +2727,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\km.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/km.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2748,10 +2748,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ko.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ko#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2769,10 +2769,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ko.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ko.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2790,10 +2790,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\lt.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/lt#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2811,10 +2811,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\lt.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/lt.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2832,10 +2832,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\lv.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/lv#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2853,10 +2853,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\lv.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/lv.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2874,10 +2874,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\mk.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/mk#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2895,10 +2895,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\mk.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/mk.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2916,10 +2916,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ms.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ms#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2937,10 +2937,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ms.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ms.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2958,10 +2958,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\nb.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/nb#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2979,10 +2979,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\nb.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/nb.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3000,10 +3000,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ne.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ne#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3021,10 +3021,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ne.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ne.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3042,10 +3042,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\nl.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/nl#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3063,10 +3063,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\nl.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/nl.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3084,10 +3084,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\pl.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/pl#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3105,10 +3105,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\pl.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/pl.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3126,10 +3126,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ps.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ps#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3147,10 +3147,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ps.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ps.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3168,10 +3168,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\pt-BR.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/pt-BR#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3189,10 +3189,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\pt-BR.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/pt-BR.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3210,10 +3210,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\pt.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/pt#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3231,10 +3231,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\pt.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/pt.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3252,10 +3252,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ro.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ro#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3273,10 +3273,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ro.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ro.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3294,10 +3294,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ru.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ru#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3315,10 +3315,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\ru.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/ru.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3336,10 +3336,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\sk.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/sk#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3357,10 +3357,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\sk.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/sk.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3378,10 +3378,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\sl.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/sl#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3399,10 +3399,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\sl.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/sl.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3420,10 +3420,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\sq.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/sq#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3441,10 +3441,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\sq.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/sq.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3462,10 +3462,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\sr-Cyrl.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/sr-Cyrl#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3483,10 +3483,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\sr-Cyrl.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/sr-Cyrl.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3504,10 +3504,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\sr.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/sr#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3525,10 +3525,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\sr.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/sr.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3546,10 +3546,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\sv.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/sv#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3567,10 +3567,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\sv.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/sv.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3588,10 +3588,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\th.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/th#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3609,10 +3609,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\th.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/th.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3630,10 +3630,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\tk.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/tk#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3651,10 +3651,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\tk.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/tk.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3672,10 +3672,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\tr.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/tr#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3693,10 +3693,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\tr.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/tr.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3714,10 +3714,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\uk.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/uk#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3735,10 +3735,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\uk.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/uk.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3756,10 +3756,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\vi.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/vi#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3777,10 +3777,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\vi.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/vi.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3798,10 +3798,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\zh-CN.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/zh-CN#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3819,10 +3819,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\zh-CN.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/zh-CN.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3840,10 +3840,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\zh-TW.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/zh-TW#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3861,10 +3861,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\i18n\\zh-TW.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/i18n/zh-TW.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3882,10 +3882,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\select2.full.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/select2.full#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3903,10 +3903,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\select2.full.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/select2.full.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3924,10 +3924,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\select2.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/select2#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3945,10 +3945,10 @@
     },
     {
       "Identity": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\lib\\select2\\js\\select2.min.js",
-      "SourceId": "AppointmentScheduler",
+      "SourceId": "Optik",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
-      "BasePath": "_content/AppointmentScheduler",
+      "BasePath": "_content/Optik",
       "RelativePath": "lib/select2/js/select2.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -3966,170 +3966,6 @@
     }
   ],
   "Endpoints": [
-    {
-      "Route": "AppointmentScheduler.3m3srfdtq8.bundle.scp.css",
-      "AssetFile": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AppointmentScheduler.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1137"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tVf9WQtfBb3q1KW0UrjzeL5upznSpLQ36/gYTTnVteo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 23:35:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3m3srfdtq8"
-        },
-        {
-          "Name": "label",
-          "Value": "AppointmentScheduler.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tVf9WQtfBb3q1KW0UrjzeL5upznSpLQ36/gYTTnVteo="
-        }
-      ]
-    },
-    {
-      "Route": "AppointmentScheduler.3m3srfdtq8.styles.css",
-      "AssetFile": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AppointmentScheduler.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1137"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tVf9WQtfBb3q1KW0UrjzeL5upznSpLQ36/gYTTnVteo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 23:35:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3m3srfdtq8"
-        },
-        {
-          "Name": "label",
-          "Value": "AppointmentScheduler.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tVf9WQtfBb3q1KW0UrjzeL5upznSpLQ36/gYTTnVteo="
-        }
-      ]
-    },
-    {
-      "Route": "AppointmentScheduler.bundle.scp.css",
-      "AssetFile": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AppointmentScheduler.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1137"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tVf9WQtfBb3q1KW0UrjzeL5upznSpLQ36/gYTTnVteo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 23:35:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-tVf9WQtfBb3q1KW0UrjzeL5upznSpLQ36/gYTTnVteo="
-        }
-      ]
-    },
-    {
-      "Route": "AppointmentScheduler.styles.css",
-      "AssetFile": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AppointmentScheduler.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1137"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tVf9WQtfBb3q1KW0UrjzeL5upznSpLQ36/gYTTnVteo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 23:35:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-tVf9WQtfBb3q1KW0UrjzeL5upznSpLQ36/gYTTnVteo="
-        }
-      ]
-    },
     {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\css\\site.css",
@@ -19379,6 +19215,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-16c3mSb2OxHyGKYVRD8ATQP8SZvBuvUNQUKxsqdsN3I="
+        }
+      ]
+    },
+    {
+      "Route": "Optik.bundle.scp.css",
+      "AssetFile": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Optik.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 01:48:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o="
+        }
+      ]
+    },
+    {
+      "Route": "Optik.eclrpjzf30.bundle.scp.css",
+      "AssetFile": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Optik.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 01:48:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eclrpjzf30"
+        },
+        {
+          "Name": "label",
+          "Value": "Optik.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o="
+        }
+      ]
+    },
+    {
+      "Route": "Optik.eclrpjzf30.styles.css",
+      "AssetFile": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Optik.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 01:48:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eclrpjzf30"
+        },
+        {
+          "Name": "label",
+          "Value": "Optik.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o="
+        }
+      ]
+    },
+    {
+      "Route": "Optik.styles.css",
+      "AssetFile": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Optik.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 01:48:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o="
         }
       ]
     }
