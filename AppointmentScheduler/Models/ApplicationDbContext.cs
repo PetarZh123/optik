@@ -1,7 +1,8 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using AppointmentScheduler.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace AppointmentScheduler.Models
+namespace Optik.Models
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {

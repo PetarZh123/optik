@@ -1,32 +1,36 @@
-﻿<div class="modal fade" role="dialog" id="appointmentInput" data-backdrop="static" data-keyboard="false">
+﻿@model AppointmentScheduler.Models.ViewModels.AppointmentVM
+
+<div class="modal fade" role="dialog" id="appointmentInput" data-backdrop="static" data-keyboard="false">
     <div class="modal-dialog">
         <div class="modal-content">
-            <form id="appointmentForm" autocomplete="off" novalidate="novalidate">
+            <form id="appointmentForm" method="post" autocomplete="off" novalidate="novalidate">
                 <div class="modal-header">
-                    <h4 class=modal-title>Add/Edit Appointment</h4>
+                    <h4 class="modal-title">Add/Edit Appointment</h4>
                 </div>
                 <div class="modal-body">
                     <div class="form-group">
                         <label for="title">Title</label>
-                        <input type="text" maxlength="100" class="form-control" id="title" />
+                        <input asp-for="Title" name="title" type="text" maxlength="100" class="form-control" id="title" />
                     </div>
                     <div class="form-group">
                         <label for="description">Description</label>
-                        <textarea type="text" class="form-control" id="description"></textarea>
+                        <textarea asp-for="Description" name="description" class="form-control" id="description"></textarea>
                     </div>
                     <div class="form-group">
-                        <label for="title">Select Patient</label>
-                        <select id="patientId" asp-items="@(new SelectList(ViewBag.PatientList, "Id", "Name"))" class="form-control"></select>
+                        <label for="patientId">Select Patient</label>
+                        <select asp-for="PatientId" name="patientId" id="patientId" asp-items="@(new SelectList(ViewBag.PatientList, "Id", "Name"))" class="form-control"></select>
                     </div>
-                    <div class="form-group">
-                        <label for="title">Duration</label>
-                        <select id="duration" asp-items="ViewBag.Duration" class="form-control"></select>
-                    </div>
-                    <input type="hidden" id="id" />
+
+                    <!-- Hidden fields for storing selected start and end time -->
+                    <input type="hidden" name="id" id="id" />
+                    <input type="hidden" name="doctorId" id="doctorId" value="12345" />
+                    <input type="hidden" name="startDate" id="startDate" />
+                    <input type="hidden" name="endDate" id="endDate" />
                 </div>
+
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" onclick="onCloseModal();">Close</button>&nbsp;
-                    <button type="button" id="btnSubmit" class="btn btn-secondary" onclick="onSubmitForm();">Submit</button>
+                    <button type="button" class="btn btn-secondary" onclick="onCloseModal();">Close</button>
+                    <button type="submit" id="btnSubmit" class="btn btn-primary">Submit</button>
                 </div>
             </form>
         </div>

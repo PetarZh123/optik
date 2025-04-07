@@ -1,9 +1,11 @@
-﻿<div class="row">
+﻿@model AppointmentScheduler.Models.ViewModels.AppointmentVM
+<div class="row">
     <div class="container">
         @if (User.IsInRole(AppointmentScheduler.Utility.Helper.Admin))
         {
             <div class="form-group row col-2" id="divDoctorList">
                 <label> Select Doctor</label>
+
                 @Html.DropDownList("doctorId", new SelectList(ViewBag.DoctorList,"Id","Name"), new { @class="form-control select2" })
             </div>
         }
@@ -11,4 +13,10 @@
     </div>
 </div>
 
-<partial name="_AddEditAppointment" />
+<partial name="_AddEditAppointment" model=@Model/>
+
+<script>
+    console.log("Layout loaded");
+</script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/js/script-custom-calendar.js"></script>
