@@ -4,6 +4,7 @@ using AppointmentScheduler.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Optik.Models;
+using Optik.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +13,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
     builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddTransient<IAppointmentService, AppointmentService>();
+builder.Services.AddTransient<IProductsService, ProductsService>();
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddAuthorization(options =>

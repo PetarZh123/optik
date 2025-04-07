@@ -1,9 +1,24 @@
-﻿@model IEnumerable<Product>
+﻿@model Optik.Models.ViewModels.ProductsViewModel
 
-<h2>Products</h2>
-
+<h2>Продукти</h2>
+<form asp-action="Index" method="post" class="mb-4">
+    <div class="form-row row">
+        <div class="col-md-4">
+            <input asp-for="@Model.searchQuery" value="@(Model.searchQuery == null ? string.Empty : Model.searchQuery)" class="form-control" placeholder="Търси..." />
+        </div>
+        <div class="col-md-3">
+            <input asp-for="@Model.StartPrice" value="@(Model.StartPrice == 0 ? string.Empty : Model.StartPrice)" class="form-control" placeholder="Минимална цена" type="number" />
+        </div>
+        <div class="col-md-3">
+            <input asp-for="@Model.EndPrice" value="@(Model.EndPrice == 0 ? string.Empty : Model.EndPrice)" class="form-control" placeholder="Максимална цена" type="number" />
+        </div>
+        <div class="col-md-2">
+            <button type="submit" class="btn btn-primary btn-block">Търси</button>
+        </div>
+    </div>
+</form>
 <div class="row">
-    @foreach (var product in Model)
+    @foreach (var product in Model.Products)
     {
         <div class="col-md-4">
             <div class="card">
@@ -14,7 +29,7 @@
                     <p><strong>Price: $@product.Price</strong></p>
                     <form asp-action="AddToCart" asp-controller="Cart" method="post">
                         <input type="hidden" name="productId" value="@product.Id" />
-                        <button type="submit" class="btn btn-success">Add to Cart</button>
+                        <button type="submit" class="btn btn-success">Добави в количката</button>
                     </form>
                 </div>
             </div>
