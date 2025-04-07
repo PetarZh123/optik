@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "A2Btpso9feSfFsD+mpVbagBbsA6Xq7a7pjpDZnjVHYY=",
+  "Hash": "n7KUfi1cvWeE1+uRe/pF+tFU0dzI14GD4rWHjxs5/0o=",
   "Source": "Optik",
   "BasePath": "_content/Optik",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "eclrpjzf30",
-      "Integrity": "MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o=",
+      "Fingerprint": "j4hrmvfwxo",
+      "Integrity": "jc7j21F+xzyv59lkm4whkeNDFVYD1kY82h2TRClDE5I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Optik.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "eclrpjzf30",
-      "Integrity": "MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o=",
+      "Fingerprint": "j4hrmvfwxo",
+      "Integrity": "jc7j21F+xzyv59lkm4whkeNDFVYD1kY82h2TRClDE5I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Optik.bundle.scp.css"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "61n19gt1b8",
-      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "Fingerprint": "02ykiamqyt",
+      "Integrity": "aINKZfyxY+4bpGWcZvNrqXSKc8Q9omIvHW/lMKhwG2A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
@@ -4049,7 +4049,7 @@
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico",
+      "Route": "favicon.02ykiamqyt.ico",
       "AssetFile": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4059,7 +4059,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "42092"
         },
         {
           "Name": "Content-Type",
@@ -4067,11 +4067,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"aINKZfyxY+4bpGWcZvNrqXSKc8Q9omIvHW/lMKhwG2A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 23:35:26 GMT"
+          "Value": "Wed, 02 Apr 2025 21:26:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4081,7 +4081,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "02ykiamqyt"
         },
         {
           "Name": "label",
@@ -4089,7 +4089,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-aINKZfyxY+4bpGWcZvNrqXSKc8Q9omIvHW/lMKhwG2A="
         }
       ]
     },
@@ -4104,7 +4104,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "42092"
         },
         {
           "Name": "Content-Type",
@@ -4112,11 +4112,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"aINKZfyxY+4bpGWcZvNrqXSKc8Q9omIvHW/lMKhwG2A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Mar 2025 23:35:26 GMT"
+          "Value": "Wed, 02 Apr 2025 21:26:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4126,7 +4126,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-aINKZfyxY+4bpGWcZvNrqXSKc8Q9omIvHW/lMKhwG2A="
         }
       ]
     },
@@ -19237,11 +19237,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o=\""
+          "Value": "\"jc7j21F+xzyv59lkm4whkeNDFVYD1kY82h2TRClDE5I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:48:44 GMT"
+          "Value": "Tue, 01 Apr 2025 13:11:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19251,12 +19251,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o="
+          "Value": "sha256-jc7j21F+xzyv59lkm4whkeNDFVYD1kY82h2TRClDE5I="
         }
       ]
     },
     {
-      "Route": "Optik.eclrpjzf30.bundle.scp.css",
+      "Route": "Optik.j4hrmvfwxo.bundle.scp.css",
       "AssetFile": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Optik.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -19274,11 +19274,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o=\""
+          "Value": "\"jc7j21F+xzyv59lkm4whkeNDFVYD1kY82h2TRClDE5I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:48:44 GMT"
+          "Value": "Tue, 01 Apr 2025 13:11:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19288,7 +19288,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "eclrpjzf30"
+          "Value": "j4hrmvfwxo"
         },
         {
           "Name": "label",
@@ -19296,12 +19296,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o="
+          "Value": "sha256-jc7j21F+xzyv59lkm4whkeNDFVYD1kY82h2TRClDE5I="
         }
       ]
     },
     {
-      "Route": "Optik.eclrpjzf30.styles.css",
+      "Route": "Optik.j4hrmvfwxo.styles.css",
       "AssetFile": "C:\\Users\\20243786\\RiderProjects\\AppointmentScheduler\\AppointmentScheduler\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Optik.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -19319,11 +19319,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o=\""
+          "Value": "\"jc7j21F+xzyv59lkm4whkeNDFVYD1kY82h2TRClDE5I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:48:44 GMT"
+          "Value": "Tue, 01 Apr 2025 13:11:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19333,7 +19333,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "eclrpjzf30"
+          "Value": "j4hrmvfwxo"
         },
         {
           "Name": "label",
@@ -19341,7 +19341,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o="
+          "Value": "sha256-jc7j21F+xzyv59lkm4whkeNDFVYD1kY82h2TRClDE5I="
         }
       ]
     },
@@ -19364,11 +19364,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o=\""
+          "Value": "\"jc7j21F+xzyv59lkm4whkeNDFVYD1kY82h2TRClDE5I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 01:48:44 GMT"
+          "Value": "Tue, 01 Apr 2025 13:11:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -19378,7 +19378,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MobJVHVlK7OwJJpZwKwR2yoLtdl26j2+W3pSuMq9t3o="
+          "Value": "sha256-jc7j21F+xzyv59lkm4whkeNDFVYD1kY82h2TRClDE5I="
         }
       ]
     }

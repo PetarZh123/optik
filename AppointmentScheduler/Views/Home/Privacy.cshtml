@@ -1,6 +1,41 @@
 ﻿@{
-    ViewData["Title"] = "Privacy Policy";
+    ViewData["Title"] = "Contact Us - Optik";
 }
-<h1>@ViewData["Title"]</h1>
 
-<p>Use this page to detail your site's privacy policy.</p>
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Contact OptiVision</h2>
+    <p class="text-center">Your trusted partner for premium eyewear and eye care solutions.</p>
+
+    <div class="row mt-4">
+        <!-- Contact Details -->
+        <div class="col-md-6">
+            <h4>Our Store</h4>
+            <p><strong>OptiVision Eyewear</strong></p>
+            <p>123 Vision Lane, Clearview City, CA 90210</p>
+            <p>Email: <a href="mailto:contact@optivision.com">contact@optivision.com</a></p>
+            <p>Phone: <a href="tel:+11234567890">+1 (123) 456-7890</a></p>
+            <p>Working Hours: Mon-Sat, 9 AM - 6 PM</p>
+        </div>
+
+        <!-- Contact Form -->
+        <div class="col-md-6">
+            <h4>Send Us a Message</h4>
+            <form>
+                <div class="mb-3">
+                    <label for="name" class="form-label">Your Name</label>
+                    <input type="text" class="form-control" id="name" placeholder="Enter your name">
+                </div>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email Address</label>
+                    <input type="email" class="form-control" id="email" placeholder="Enter your email">
+                </div>
+                <div class="mb-3">
+                    <label for="message" class="form-label">Your Message</label>
+                    <textarea class="form-control" id="message" rows="4" placeholder="Write your message here..."></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
+
