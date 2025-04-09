@@ -9,7 +9,7 @@ using Optik.Services;
 namespace AppointmentScheduler.Controllers;
 
 //ensures only authenticated users can access this controller
-[Authorize]
+[AllowAnonymous]
 public class ProductsController : Controller
 {
     private readonly ApplicationDbContext _context;
@@ -22,7 +22,7 @@ public class ProductsController : Controller
     }
 
     //allows both Admin and Patient to access Index
-    [Authorize(Roles = "Admin,Patient")]
+    [AllowAnonymous]
     [HttpGet]
     public IActionResult Index()
     {

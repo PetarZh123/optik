@@ -14,11 +14,12 @@
                     <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
                 </li>
 
+                <li class="nav-item">
+                    <a class="nav-link" asp-controller="Products" asp-action="Index">Products</a>
+                </li>
+
                 @if (userRole == "Admin")
                 {
-                    <li class="nav-item">
-                        <a class="nav-link" asp-controller="Products" asp-action="Index">Products</a>
-                    </li>
                     <li class="nav-item">
                         <a class="nav-link" asp-controller="Products" asp-action="Create">Add Product</a>
                     </li>
@@ -26,9 +27,6 @@
 
                 @if (userRole == "Patient")
                 {
-                    <li class="nav-item">
-                        <a class="nav-link" asp-controller="Products" asp-action="Index">Products</a>
-                    </li>
                     <li class="nav-item">
                         <a class="nav-link" asp-controller="Cart" asp-action="Index">Cart</a>
                     </li>
@@ -52,10 +50,16 @@
 else
 {
     <ul class="nav-link navbar-nav">
-        <li>
+        <li class="nav-item">
+            <a class="nav-link text-white" asp-controller="Home" asp-action="Index">Home</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-white" asp-controller="Products" asp-action="Index">Products</a>
+        </li>
+        <li class="nav-item">
             <a class="nav-link text-white" id="registerLink" asp-controller="Account" asp-action="Register">Register</a>
         </li>
-        <li>
+        <li class="nav-item">
             <a class="nav-link text-white" id="loginLink" asp-controller="Account" asp-action="Login">Sign in</a>
         </li>
     </ul>
